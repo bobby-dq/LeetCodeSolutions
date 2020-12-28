@@ -1,0 +1,13 @@
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\C#\LeetCodeSolutions\FindMinDifference\obj\Debug\netcoreapp3.1\FindMinDifference.csprojAssemblyReference.cache
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\C#\LeetCodeSolutions\FindMinDifference\obj\Debug\netcoreapp3.1\FindMinDifference.AssemblyInfoInputs.cache
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\C#\LeetCodeSolutions\FindMinDifference\obj\Debug\netcoreapp3.1\FindMinDifference.AssemblyInfo.cs
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\C#\LeetCodeSolutions\FindMinDifference\obj\Debug\netcoreapp3.1\FindMinDifference.csproj.CoreCompileInputs.cache
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\C#\LeetCodeSolutions\FindMinDifference\bin\Debug\netcoreapp3.1\FindMinDifference.exe
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\C#\LeetCodeSolutions\FindMinDifference\bin\Debug\netcoreapp3.1\FindMinDifference.deps.json
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\C#\LeetCodeSolutions\FindMinDifference\bin\Debug\netcoreapp3.1\FindMinDifference.runtimeconfig.json
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\C#\LeetCodeSolutions\FindMinDifference\bin\Debug\netcoreapp3.1\FindMinDifference.runtimeconfig.dev.json
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\C#\LeetCodeSolutions\FindMinDifference\bin\Debug\netcoreapp3.1\FindMinDifference.dll
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\C#\LeetCodeSolutions\FindMinDifference\bin\Debug\netcoreapp3.1\FindMinDifference.pdb
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\C#\LeetCodeSolutions\FindMinDifference\obj\Debug\netcoreapp3.1\FindMinDifference.dll
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\C#\LeetCodeSolutions\FindMinDifference\obj\Debug\netcoreapp3.1\FindMinDifference.pdb
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\C#\LeetCodeSolutions\FindMinDifference\obj\Debug\netcoreapp3.1\FindMinDifference.genruntimeconfig.cache
