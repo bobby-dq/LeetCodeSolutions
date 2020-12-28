@@ -1,0 +1,13 @@
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\SingleElementInASortedArray\bin\Debug\netcoreapp3.1\SingleElementInASortedArray.exe
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\SingleElementInASortedArray\bin\Debug\netcoreapp3.1\SingleElementInASortedArray.deps.json
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\SingleElementInASortedArray\bin\Debug\netcoreapp3.1\SingleElementInASortedArray.runtimeconfig.json
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\SingleElementInASortedArray\bin\Debug\netcoreapp3.1\SingleElementInASortedArray.runtimeconfig.dev.json
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\SingleElementInASortedArray\bin\Debug\netcoreapp3.1\SingleElementInASortedArray.dll
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\SingleElementInASortedArray\bin\Debug\netcoreapp3.1\SingleElementInASortedArray.pdb
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\SingleElementInASortedArray\obj\Debug\netcoreapp3.1\SingleElementInASortedArray.csprojAssemblyReference.cache
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\SingleElementInASortedArray\obj\Debug\netcoreapp3.1\SingleElementInASortedArray.AssemblyInfoInputs.cache
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\SingleElementInASortedArray\obj\Debug\netcoreapp3.1\SingleElementInASortedArray.AssemblyInfo.cs
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\SingleElementInASortedArray\obj\Debug\netcoreapp3.1\SingleElementInASortedArray.csproj.CoreCompileInputs.cache
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\SingleElementInASortedArray\obj\Debug\netcoreapp3.1\SingleElementInASortedArray.dll
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\SingleElementInASortedArray\obj\Debug\netcoreapp3.1\SingleElementInASortedArray.pdb
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\SingleElementInASortedArray\obj\Debug\netcoreapp3.1\SingleElementInASortedArray.genruntimeconfig.cache
