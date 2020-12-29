@@ -19,6 +19,11 @@ This is a repository of my attempt and solutions to various LeetCode Problems. M
     - Runtime: 96 ms, faster than 77.46% of C# online submissions for Single Element in a Sorted Array.
     - Memory Usage: 26.5 MB, less than 30.06% of C# online submissions for Single Element in a Sorted Array.
     - [Single Element in a Sorted Array LeetCode Link](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+- #### 923. 3SumWithMultiplicity *(In progress)* 
+    - Given an integer array A, and an integer target, return the number of tuples i, j, k  such that i < j < k and A[i] + A[j] + A[k] == target. As the answer can be very large, return it modulo 10^9 + 7.
+    - Runtime: *(In progress)*
+    - Memory Usage: *(In progress)*
+    - [3Sum With Multiplicity LeetCode Link](https://leetcode.com/problems/3sum-with-multiplicity/)
 
 
 ### Hard
