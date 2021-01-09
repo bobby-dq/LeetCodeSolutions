@@ -51,7 +51,6 @@ namespace FindMinDifference
             }
             
             return difference;
-
         }
     }
 }

@@ -6,6 +6,12 @@ This is a repository of my attempt and solutions to various LeetCode Problems. M
 ### Easy
 
 
+#### 118. Pascal's Triangle
+    - Given a non-negative integer numRows, generate the first numRows of Pascal's triangle.
+    - Runtime: 240 ms, faster than 9.11% of C# online submissions for Pascal's Triangle.
+    - Memory Usage: 26.4 MB, less than 80.05% of C# online submissions for Pascal's Triangle.
+    - [Pascal's Triangle LeetCode Link](https://leetcode.com/problems/pascals-triangle/submissions/)
+
 ### Medium
 
 

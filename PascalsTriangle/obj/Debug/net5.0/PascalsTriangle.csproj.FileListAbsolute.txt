@@ -1,0 +1,16 @@
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\PascalsTriangle\bin\Debug\net5.0\PascalsTriangle.exe
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\PascalsTriangle\bin\Debug\net5.0\PascalsTriangle.deps.json
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\PascalsTriangle\bin\Debug\net5.0\PascalsTriangle.runtimeconfig.json
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\PascalsTriangle\bin\Debug\net5.0\PascalsTriangle.runtimeconfig.dev.json
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\PascalsTriangle\bin\Debug\net5.0\PascalsTriangle.dll
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\PascalsTriangle\bin\Debug\net5.0\ref\PascalsTriangle.dll
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\PascalsTriangle\bin\Debug\net5.0\PascalsTriangle.pdb
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\PascalsTriangle\obj\Debug\net5.0\PascalsTriangle.csprojAssemblyReference.cache
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\PascalsTriangle\obj\Debug\net5.0\PascalsTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\PascalsTriangle\obj\Debug\net5.0\PascalsTriangle.AssemblyInfoInputs.cache
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\PascalsTriangle\obj\Debug\net5.0\PascalsTriangle.AssemblyInfo.cs
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\PascalsTriangle\obj\Debug\net5.0\PascalsTriangle.csproj.CoreCompileInputs.cache
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\PascalsTriangle\obj\Debug\net5.0\PascalsTriangle.dll
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\PascalsTriangle\obj\Debug\net5.0\ref\PascalsTriangle.dll
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\PascalsTriangle\obj\Debug\net5.0\PascalsTriangle.pdb
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\PascalsTriangle\obj\Debug\net5.0\PascalsTriangle.genruntimeconfig.cache
