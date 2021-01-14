@@ -1,0 +1,16 @@
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\RearrangeWordsInASentence\bin\Debug\net5.0\RearrangeWordsInASentence.exe
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\RearrangeWordsInASentence\bin\Debug\net5.0\RearrangeWordsInASentence.deps.json
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\RearrangeWordsInASentence\bin\Debug\net5.0\RearrangeWordsInASentence.runtimeconfig.json
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\RearrangeWordsInASentence\bin\Debug\net5.0\RearrangeWordsInASentence.runtimeconfig.dev.json
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\RearrangeWordsInASentence\bin\Debug\net5.0\RearrangeWordsInASentence.dll
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\RearrangeWordsInASentence\bin\Debug\net5.0\ref\RearrangeWordsInASentence.dll
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\RearrangeWordsInASentence\bin\Debug\net5.0\RearrangeWordsInASentence.pdb
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\RearrangeWordsInASentence\obj\Debug\net5.0\RearrangeWordsInASentence.csprojAssemblyReference.cache
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\RearrangeWordsInASentence\obj\Debug\net5.0\RearrangeWordsInASentence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\RearrangeWordsInASentence\obj\Debug\net5.0\RearrangeWordsInASentence.AssemblyInfoInputs.cache
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\RearrangeWordsInASentence\obj\Debug\net5.0\RearrangeWordsInASentence.AssemblyInfo.cs
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\RearrangeWordsInASentence\obj\Debug\net5.0\RearrangeWordsInASentence.csproj.CoreCompileInputs.cache
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\RearrangeWordsInASentence\obj\Debug\net5.0\RearrangeWordsInASentence.dll
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\RearrangeWordsInASentence\obj\Debug\net5.0\ref\RearrangeWordsInASentence.dll
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\RearrangeWordsInASentence\obj\Debug\net5.0\RearrangeWordsInASentence.pdb
+C:\Users\joshq\OneDrive\Desktop\CodingProjects\LeetCode Solutions\RearrangeWordsInASentence\obj\Debug\net5.0\RearrangeWordsInASentence.genruntimeconfig.cache
