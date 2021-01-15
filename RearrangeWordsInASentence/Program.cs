@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace RearrangeWordsInASentence
 {
@@ -8,15 +9,14 @@ namespace RearrangeWordsInASentence
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine(ArrangeWords("Leetcode is cool"));
         }
 
-        public string ArrangeWords(string text)
+        public static string ArrangeWords(string text)
         {
-            string[] words = text.Split(' ');
-            string[] rearrangedWords = new string[words.Length]{};
-
-
+            string[] wordsArray = text.ToLower().Split(' ').OrderBy(w => w.Length).ToArray();
+            string wordsArrayString = String.Join(' ', wordsArray);
+            return wordsArrayString.Substring(0, 1).ToUpper() + wordsArrayString.Substring(1);
         }
     }
 }
