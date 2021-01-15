@@ -34,8 +34,8 @@ This is a repository of my attempt and solutions to various LeetCode Problems. M
     - Given a sentence text, your task is to rearrange the words in text such that all words are rearranged in an increasing order of their lengths. If two words have the same length, arrange them in their original order. (A sentence is a string of space-separated words) Return the new text following format:
         - First letter is in upper case.
         - Each word in text are separated by a single space.
-    - Runtime: *(In progress)*
-    - Memory Usage: *(In progress)*
+    - Runtime: 116 ms, faster than 66.67% of C# online submissions for Rearrange Words in a Sentence.
+    - Memory Usage: 36.8 MB, less than 83.33% of C# online submissions for Rearrange Words in a Sentence.
     - [Rearrange Words in a Sentence LeetCode Link](https://leetcode.com/problems/rearrange-words-in-a-sentence/)
 
 
