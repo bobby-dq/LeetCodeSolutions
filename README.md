@@ -32,6 +32,14 @@ This is a repository of my attempt and solutions to various LeetCode Problems. M
     - Runtime: 116 ms, faster than 66.67% of C# online submissions for Rearrange Words in a Sentence.
     - Memory Usage: 36.8 MB, less than 83.33% of C# online submissions for Rearrange Words in a Sentence.
     - [Rearrange Words in a Sentence LeetCode Link](https://leetcode.com/problems/rearrange-words-in-a-sentence/)
+- #### 1276. Number of Burgers with No Waste of Ingredients *(In progress)*
+    - Given two integers tomatoSlices and cheeseSlices. The ingredients of different burgers are as follows:
+        - Jumbo Burger: 4 tomato slices and 1 cheese slice.
+        - Small Burger: 2 Tomato slices and 1 cheese slice.
+    Return [total_jumbo, total_small] so that the number of remaining tomatoSlices equal to 0 and the number of remaining cheeseSlices equal to 0. If it is not possible to make the remaining tomatoSlices and cheeseSlices equal to 0 return [].
+    - Runtime: *(In progress)*
+    - Memory Usage: *(In progress)*
+    - [Number of Burgers with No Waste of Ingredients LeetCode Link](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/)
 
 
 ### Hard
